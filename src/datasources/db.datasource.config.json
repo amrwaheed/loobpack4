@@ -1,0 +1,12 @@
+{
+  "name": "db",
+  "connector": "mongodb",
+  "url": "",
+  "host": "localhost",
+  "port": 0,
+  "user": "",
+  "password": "",
+  "database": "phone_number",
+  "useNewUrlParser": true,
+  "useUnifiedTopology": true
+}
