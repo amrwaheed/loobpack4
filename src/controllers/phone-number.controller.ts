@@ -23,14 +23,22 @@ export class PhoneNumberController {
         'application/json': {
           schema: getModelSchemaRef(Phones, {
             title: 'NewPhones',
-            // exclude: ['id'],
+            
           }),
         },
       },
     })
     phones: Omit<Phones, 'id'>,
   ): Promise<Phones | object> {
-
+  
+   const phoneExists = await this.phonesRepository.findOne({where:{phoneNumber:phones.phoneNumber}})
+   if(phoneExists){
+ 
+    return {
+      code:402,
+      error:"phone exists"
+    }
+   }
     return this.phonesRepository.create(phones);
   }
 

@@ -1278,19 +1278,19 @@
         "signature": "cddc2251f0f8db702167c4fa6434461340d5ac20df3c562a6f4d5d16cc72f755"
       },
       "./src/sequence.ts": {
-        "version": "b0256118f1d4eb4db5aaccc2224bdea2c6321e97a6f6a50898274e4757c50ec6",
+        "version": "338210d73d90b335598f8be8632be658c89a26554dada5477a95394405a68fab",
         "signature": "03644d82c85f47756cd90daf232af37b70d70db77a99688fa3c1330e015d040f"
       },
       "./src/application.ts": {
-        "version": "e81a936d24e4c45e48e233e6d332ab213fc30682ef60b3c3f264a7a4d9665734",
+        "version": "db8b9707a3339210d60650e690a4fc7497b39ef71fcd846f2334dea3d589ad44",
         "signature": "9ddf6fc13dc6cbcc193899e11b260723f323b8ed5300143280e03d31f0ee8bac"
       },
       "./src/index.ts": {
-        "version": "eceb8d11be7f64e5f25b5e45a9ab610ecdbd5182f0b43d25d90c645a164604bb",
+        "version": "0e2ab6bcce7f4c925aa40fb938a7365950cbca2f1b22e500f434f5ab390574f7",
         "signature": "4e2516e0589208ad5ccb8d5b1dfd856874b0b0ad762d5fc6cc7fc245eb16b941"
       },
       "./src/migrate.ts": {
-        "version": "7a4031fad2554e975ce52ff61c0f796b196af95d1e4cad9c07dc670626ded6cd",
+        "version": "99ddeb9d8dbc01680744050e4821a46ee8e8289cc2f137660aaeb543d389b7e8",
         "signature": "e9b8dbbcc0cb738d2836845996cec05b75916fe8314d6d515028b0cab71df9c9"
       },
       "./node_modules/@types/cookiejar/index.d.ts": {
@@ -1370,51 +1370,51 @@
         "signature": "965325f10ce3cbe879d2b7ad658d76f08fc348e20985ab0e09dd76ddf7e6bee1"
       },
       "./src/__tests__/acceptance/test-helper.ts": {
-        "version": "f0135c563f1df47bfb59e0269c34a791b4e0190f32577b005e13bace6706d3fa",
+        "version": "7c0cac8ceeeff9799d62ab1fdd3802e36a5347f14a556fbde887a6f7b64e25e0",
         "signature": "b8801493a780e3503aa0d97329fc02a1ebb78964aa14f49044f64ef10ca845ee"
       },
       "./src/__tests__/acceptance/home-page.acceptance.ts": {
-        "version": "a2321c6b7065247534ddad8e95e8a75a485ee8eb59af0a47d90e17ef92e9966e",
+        "version": "63e46f38095c024265d7ac7afe32bd8361da386bc6facd62f4ddec5b54fd33e6",
         "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
       },
       "./src/__tests__/acceptance/ping.controller.acceptance.ts": {
-        "version": "e0a27ef99dd2be0d7c6c0a116bc4052f7175a658895a0a154e7c01cc48b02f95",
+        "version": "f78de31e9b0bf86e02f3b6e05eea5e1d951bffeec68fed2669dd33bd9b0a80e3",
         "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
       },
       "./src/models/phones.model.ts": {
-        "version": "f866d07c444ada80d4b5de6a806fa76ae442e28d3d04976c8ed8529962e95c5f",
+        "version": "aba0e87ae74f6b1a80834080f11476e6364debefaf2937ad5eafedb17b135948",
         "signature": "c9eb3f5062d3c39ef7532c95eb1094d11c2ad55ac7cac9144d02323bb51f289c"
       },
       "./src/models/index.ts": {
-        "version": "3c33fdd6ce5697945125d0917fc9f3c3c0403ff22f1f97d01256e21c0911f51d",
+        "version": "f5dc153d0d42efbf60995314665dd3a33093fc6e657e90078ddbb606034e6876",
         "signature": "f5dc153d0d42efbf60995314665dd3a33093fc6e657e90078ddbb606034e6876"
       },
       "./src/datasources/db.datasource.config.json": {
-        "version": "5cd545122c30f3d8b123dc015f46fa02ca342c895f0ef46fc0f47b816a07f9ac",
+        "version": "a5fee01a46ec69063d8dac15c15e58e027d1087840733afb6aa491c95d86b255",
         "signature": "221f056d46d991cb6d3f17de85d5e402f0c84aa2f2cc8f5b6ccb9ad71c03a3a1"
       },
       "./src/datasources/db.datasource.ts": {
-        "version": "bf13cdb240d639e99d120e9d657e1569a4b91fccaf4a0551a4f89376c2c96f71",
+        "version": "e394484f32ff05753914bf3ce33190b38f456454e172389fbc5fd758f8df6194",
         "signature": "c569e4913a1f0216ebab723f43db23ba578770cee4fedeb2cbd7fd618f091612"
       },
       "./src/datasources/index.ts": {
-        "version": "834b70c56280af742429c81a7c992c940426144605c9604c22ffd68a9c327619",
+        "version": "537dd21cdb932491bca04b418b9582009f52a8a6b403a48d224cf3f2d0df545a",
         "signature": "537dd21cdb932491bca04b418b9582009f52a8a6b403a48d224cf3f2d0df545a"
       },
       "./src/repositories/phones.repository.ts": {
-        "version": "79042afdc677920b8b8824e0a0bdd7ce2f3e22fd3aabf482f9d965aea4ccbe87",
+        "version": "3d7798b0e2ead2d67cc481de629ccc3e4c27eeaad056126d1d13484c4f23b1ff",
         "signature": "258b2c8e8b4a42dae5c26437c6115ae55c824587612cf3f299608d2d77b77660"
       },
       "./src/repositories/index.ts": {
-        "version": "795ea901844ca9538de88f0a1ce6e6f6c7f790116ef2c72a4ce90cd4f7d4b212",
+        "version": "713310c76f25286f49e8a7cc9e6333e609e9973cabc147c0e29c030c78074120",
         "signature": "713310c76f25286f49e8a7cc9e6333e609e9973cabc147c0e29c030c78074120"
       },
       "./src/controllers/phone-number.controller.ts": {
-        "version": "65ea9eb2e9d61548f7f2a6fb4cf7817de7dc88f01fc9c3715106b6d9fccf08e8",
+        "version": "8e0ebb6a6fce7c87c95f5bcde68ea1e18d4fa1898b05ed6f945dbd6110fe7b9d",
         "signature": "b7448eb79a5dfee4cc0453c81b98d33011e98efa3c96fbb8afd9b87d46eb3d66"
       },
       "./src/controllers/index.ts": {
-        "version": "6576c52bdbbdbe91d0f8c1c9e6c854958484208daf2c8c7921a620eff7e8debe",
+        "version": "e0c70acb7bd1028e75674f9cef50d5dc6e453a982c40c8b2bdbe5f1857e6c301",
         "signature": "e0c70acb7bd1028e75674f9cef50d5dc6e453a982c40c8b2bdbe5f1857e6c301"
       },
       "./node_modules/@types/color-name/index.d.ts": {
@@ -6557,10 +6557,6 @@
       "./node_modules/@loopback/rest-explorer/dist/rest-explorer.keys.d.ts",
       "./node_modules/@loopback/rest-explorer/dist/index.d.ts",
       "./node_modules/@loopback/rest-explorer/index.d.ts",
-      "./src/sequence.ts",
-      "./src/application.ts",
-      "./src/index.ts",
-      "./src/migrate.ts",
       "./node_modules/@types/cookiejar/index.d.ts",
       "./node_modules/@types/superagent/index.d.ts",
       "./node_modules/@types/supertest/index.d.ts",
@@ -6580,6 +6576,19 @@
       "./node_modules/@loopback/testlab/dist/validate-api-spec.d.ts",
       "./node_modules/@loopback/testlab/dist/index.d.ts",
       "./node_modules/@loopback/testlab/index.d.ts",
+      "./node_modules/@types/color-name/index.d.ts",
+      "./node_modules/@types/debug/index.d.ts",
+      "./node_modules/@types/eslint-visitor-keys/index.d.ts",
+      "./node_modules/@types/fs-extra/index.d.ts",
+      "./node_modules/@types/minimatch/index.d.ts",
+      "./node_modules/@types/glob/index.d.ts",
+      "./node_modules/@types/mocha/index.d.ts",
+      "./node_modules/@types/on-finished/index.d.ts",
+      "./node_modules/@types/type-is/index.d.ts",
+      "./src/sequence.ts",
+      "./src/application.ts",
+      "./src/index.ts",
+      "./src/migrate.ts",
       "./src/__tests__/acceptance/test-helper.ts",
       "./src/__tests__/acceptance/home-page.acceptance.ts",
       "./src/__tests__/acceptance/ping.controller.acceptance.ts",
@@ -6590,17 +6599,8 @@
       "./src/datasources/index.ts",
       "./src/repositories/phones.repository.ts",
       "./src/repositories/index.ts",
-      "./src/controllers/index.ts",
-      "./node_modules/@types/color-name/index.d.ts",
-      "./node_modules/@types/debug/index.d.ts",
-      "./node_modules/@types/eslint-visitor-keys/index.d.ts",
-      "./node_modules/@types/fs-extra/index.d.ts",
-      "./node_modules/@types/minimatch/index.d.ts",
-      "./node_modules/@types/glob/index.d.ts",
-      "./node_modules/@types/mocha/index.d.ts",
-      "./node_modules/@types/on-finished/index.d.ts",
-      "./node_modules/@types/type-is/index.d.ts",
-      "./src/controllers/phone-number.controller.ts"
+      "./src/controllers/phone-number.controller.ts",
+      "./src/controllers/index.ts"
     ]
   },
   "version": "3.8.3"
