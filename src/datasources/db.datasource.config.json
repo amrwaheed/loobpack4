@@ -1,11 +1,11 @@
 {
   "name": "db",
   "connector": "mongodb",
-  "url": "",
-  "host": "localhost",
-  "port": 0,
-  "user": "",
-  "password": "",
+  "url": "mongodb+srv://amrwaheed:123456@freecluster0-cxyrf.mongodb.net/phone_number?retryWrites=true&w=majority",
+  "host": "freecluster0-shard-00-00-cxyrf.mongodb.net",
+  "port": 27017,
+  "user": "amrwaheed",
+  "password": "123789",
   "database": "phone_number",
   "useNewUrlParser": true,
   "useUnifiedTopology": true
